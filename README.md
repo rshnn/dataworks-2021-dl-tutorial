@@ -5,3 +5,5 @@
 Materials for 2021 dataworks mini-tutorial on deep learning using tensorflow. 
 
 https://dataworks.testscience.org/
+
+Workshop session recording [here](https://www.youtube.com/watch?v=oJRWnxtentY)  
